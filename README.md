@@ -21,10 +21,10 @@ My focus was to master page layout, styling, and responsiveness through practice
 ## 📂 Projects Overview
 
 | No. | Project | Description | Live Demo |
-|-----|----------|--------------|------------|
-| 1 | [Sidebar Menu](./Project_1) | A clean and responsive sidebar navigation with hover & active effects. | *(Coming soon)* |
-| 2 | [Spotify Clone](./Project_2) | A front-end-only Spotify homepage layout built with HTML & CSS. | *(Coming soon)* |
-| 3 | [Amazon Clone](./Project_3) | A fully structured e-commerce homepage inspired by Amazon’s layout. | *(Coming soon)* |
+|-----|---------|-------------|-----------|
+| 1 | Sidebar Menu | A clean and responsive sidebar navigation with hover & active effects. | [🔗 Live Demo](https://sahilkadam078.github.io/HTML_CSS_Mini_Project/Project_1(Sidebar_menu)/) |
+| 2 | Spotify Clone | A front-end-only Spotify homepage layout built with HTML & CSS. | [🔗 Live Demo](https://sahilkadam078.github.io/HTML_CSS_Mini_Project/Project_2(Spotify-Clone)/) |
+| 3 | Amazon Clone | A fully structured e-commerce homepage inspired by Amazon’s layout. | [🔗 Live Demo](https://sahilkadam078.github.io/HTML_CSS_Mini_Project/Project_3(Amazon-Clone)/) |
 
 ---
 
