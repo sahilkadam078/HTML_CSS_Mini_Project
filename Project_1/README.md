@@ -39,11 +39,6 @@ The goal was to understand layout structure, hover transitions, and active state
 
 ---
 
-## 📸 Preview
-![Preview](./assets/homepage.png)
-
----
-
 ## 🏁 Future Improvements
 - Add JavaScript for open/close animation  
 - Make it theme-switchable (dark/light mode)  
