@@ -5,16 +5,9 @@
 # 1️⃣ **Project_1(Sidebar_menu)/README.md**
 
 ```markdown
-<div align="center">
 
 # 📁 Sidebar Menu  
 *A modern responsive sidebar navigation built with only HTML & CSS.*
-
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge)
-![Responsive](https://img.shields.io/badge/Responsive-Yes-green?style=for-the-badge)
-
-</div>
 
 ---
 
@@ -47,7 +40,7 @@ The goal was to understand layout structure, hover transitions, and active state
 ---
 
 ## 📸 Preview
-*(Add screenshot: `preview.png`)*
+![Preview](./assets/homepage.png)
 
 ---
 
