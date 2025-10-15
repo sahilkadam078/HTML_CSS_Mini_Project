@@ -34,7 +34,7 @@ The goal was to understand how large e-commerce layouts are organized and styled
 ---
 
 ## 📸 Preview
-![Amazon Clone Preview](./assests/homepage.png)
+![Amazon Clone Preview](./assets/homepage.png)
 > *Amazon homepage layout built from scratch.*
 
 ---
