@@ -1,73 +1,42 @@
-🧭 Main README — HTML_CSS_Mini_Project
 <div align="center">
-🎨 HTML & CSS Mini Projects
 
-A curated collection of front-end UI projects built using only HTML & CSS.
+# 🎨 HTML & CSS Mini Projects
+*A collection of small front-end projects built purely with HTML and CSS.*
 
-
-
-
-
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive-Design-blueviolet?style=for-the-badge&logo=csswizardry&logoColor=white)
 
 </div>
-🧱 About This Repository
 
-This repository is a small showcase of my journey learning front-end fundamentals — how to structure pages, manage layouts, and style clean UIs without JavaScript or frameworks.
-Each folder represents an individual project built from scratch, focused on a single concept like navigation, grid layout, or responsive design.
+---
 
-📂 Projects Overview
-No.	Project	Description	Live Demo
-1	Sidebar Menu
-	A responsive sidebar navigation with smooth hover and active effects.	(add GitHub Pages link later)
-2	Spotify Clone
-	A front-end-only Spotify clone replicating layout, spacing, and theme.	(add link)
-3	YouTube Clone
-	A YouTube homepage UI (Apna College inspired), built with HTML & CSS grid.	(add link)
-🧠 Key Skills Practiced
+## 🧱 About This Repository
+This repo is a small part of my **front-end learning journey**.  
+Each folder here is a mini project I built using only **HTML and CSS**, focusing on layout, styling, and responsive design — no JavaScript, no frameworks, just the basics done right.
 
-Semantic and structured HTML layout
+---
 
-Responsive design using Flexbox and Grid
+## 📂 Projects Overview
 
-Clean CSS styling and hover animations
+| No. | Project | Description | Live Demo |
+|-----|----------|--------------|------------|
+| 1 | [Sidebar Menu](./Project_1(Sidebar_menu)) | A responsive sidebar navigation with hover & active effects. | *(Coming soon)* |
+| 2 | [Spotify Clone](./Project_2(Spotify-Clone)) | A front-end-only Spotify UI built with HTML & CSS. | *(Coming soon)* |
+| 3 | [YouTube Clone](./Project_3(YT-apna-clg)) | A YouTube homepage layout built from scratch using CSS Grid. | *(Coming soon)* |
 
-UI component spacing and alignment
+---
 
-Building pixel-perfect front-end replicas
+## 🧠 What I Learned
+- How to structure clean, semantic HTML  
+- CSS Grid and Flexbox layouts  
+- Building responsive, mobile-friendly UIs  
+- Color harmony and typography  
+- Creating modern UI effects using only CSS  
 
-⚙️ How to Run
+---
 
-Clone the repository
-
-git clone https://github.com/sahilkadam078/HTML_CSS_Mini_Project.git
-
-
-Open any folder inside the repo
-
-Right-click the .html file → “Open with Live Server” in VS Code (or open directly in browser)
-
-📸 Project Previews
-
-You can upload screenshots later, but here’s how to structure them:
-
-Project_1(Sidebar_menu)/preview.png
-Project_2(Spotify-Clone)/preview.png
-Project_3(YT-apna-clg)/preview.png
-
-
-Once you upload them, add here like:
-
-![Sidebar Menu](./Project_1(Sidebar_menu)/preview.png)
-
-🚀 Future Plans
-
-Add responsive breakpoints for all projects
-
-Add JS for interactivity (menu toggle, player controls, etc.)
-
-Host projects with GitHub Pages for live demo access
-
-💬 Author
-
-Sahil Kadam
-💻 Front-End Developer (in progress) | 🎯 Focused on clean, functional UI design
+## ⚙️ How to Run Locally
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/sahilkadam078/HTML_CSS_Mini_Project.git
