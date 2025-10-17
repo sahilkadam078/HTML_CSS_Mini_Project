@@ -22,10 +22,10 @@ My focus was to master page layout, styling, and responsiveness through practice
 
 | No. | Project | Description | Live Demo |
 |-----|---------|-------------|-----------|
-| 1 | Sidebar Menu | A clean and responsive sidebar navigation with hover & active effects. | [View Demo](https://sahilkadam078.github.io/HTML_CSS_Mini_Project/Project_1/public/index.html)
-| 2 | Spotify Clone | A front-end-only Spotify homepage layout built with HTML & CSS. | [View Demo](https://sahilkadam078.github.io/HTML_CSS_Mini_Project/Project_2/public/index.html)
-| 3 | Amazon Clone | A fully structured e-commerce homepage inspired by Amazon’s layout. | [View Demo](https://sahilkadam078.github.io/HTML_CSS_Mini_Project/Project_3/public/index.html)
-
+| 1 | Sidebar Menu | A clean and responsive sidebar navigation with hover & active effects. | [View Demo](https://sahilkadam078.github.io/HTML_CSS_Mini_Project/Project_1/public/index.html) |
+| 2 | Spotify Clone | A front-end-only Spotify homepage layout built with HTML & CSS. | [View Demo](https://sahilkadam078.github.io/HTML_CSS_Mini_Project/Project_2/public/index.html) |
+| 3 | Amazon Clone | A fully structured e-commerce homepage inspired by Amazon’s layout. | [View Demo](https://sahilkadam078.github.io/HTML_CSS_Mini_Project/Project_3/public/index.html) |
+| 4 | Professional Website | A modern, responsive business-style landing page built from scratch. | [View Demo](https://sahilkadam078.github.io/HTML_CSS_Mini_Project/Professional_Website/public/index.html) |
 
 ---
 
