@@ -6,7 +6,7 @@ This project focuses on building a real-world, modern website layout that includ
 ---
 
 ## 📸 Preview  
-![Website Screenshot](./assets/screen.png)
+![Website Screenshot](./assests/screen.png)
 
 ---
 
