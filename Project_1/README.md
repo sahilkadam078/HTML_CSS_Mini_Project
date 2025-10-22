@@ -9,13 +9,6 @@ The focus was on layout structure, hover transitions, and responsive design — 
 
 ---
 
-## 📸 Screenshot
-![Sidebar Menu Preview](./assets/sidebar-preview.png)
-
-> *Tip:* Save your project preview image inside an `assets` folder and name it clearly, like `sidebar-preview.png`.
-
----
-
 ## 🧩 Features
 - Sidebar with icons and text labels  
 - Hover and active item effects  
