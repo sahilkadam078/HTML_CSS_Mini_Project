@@ -1,10 +1,3 @@
-
----
-
-## 1️⃣ `Project_1(Sidebar_menu)/README.md`
-
-```markdown
-
 # 📁 Sidebar Menu  
 *A modern, responsive sidebar navigation built using only HTML & CSS.*
 
@@ -13,6 +6,13 @@
 ## 🎯 Objective
 To design a **clean, collapsible sidebar navigation** using only CSS.  
 The focus was on layout structure, hover transitions, and responsive design — without a single line of JavaScript.
+
+---
+
+## 📸 Screenshot
+![Sidebar Menu Preview](./assets/sidebar-preview.png)
+
+> *Tip:* Save your project preview image inside an `assets` folder and name it clearly, like `sidebar-preview.png`.
 
 ---
 
